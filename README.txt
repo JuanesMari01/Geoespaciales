@@ -12,4 +12,6 @@ De esta forma se logra:
 
 Además que al ser exportado en .py es mucho más sencillo correr el modelo.
 
-- Juanesteban Mariño Velasquez
+Hay que añadir que utilicé como base el código de pansharpening explicado por el docente en la sesión de clase.
+
+Juanesteban Mariño Velasquez
